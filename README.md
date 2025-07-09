@@ -91,14 +91,13 @@
 
 <div align='left'>
   <ul>
-    <li>
-  <a href="https://linkedin.com/in/syedkazmi14" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn:-syedkazmi14-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</li>
+<li>
+      <a href="https://linkedin.com/in/syedkazmi14" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin:-syedkazmi14-%2300acee.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+    </li>
 
 
-    <br>
 
 <li>
   <a href="mailto:smjkazmi14@gmail.com" target="_blank">
@@ -111,7 +110,7 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br>
+<br>
 ---
 
 Last Edited on: 07/09/2025
