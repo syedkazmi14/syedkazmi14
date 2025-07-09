@@ -92,10 +92,11 @@
 <div align='left'>
   <ul>
     <li>
-      <a href="https://linkedin.com/in/syedkazmi14" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin:-syedkazmi14-%2300acee.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-    </li>
+  <a href="https://linkedin.com/in/syedkazmi14" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn:-syedkazmi14-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</li>
+
 
     <br>
 
