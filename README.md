@@ -16,7 +16,7 @@
 - 🎓 Studying Computer Science @ University of Texas at Dallas
 - 🧠 Built AI-driven advisor platforms, autonomous drone vision systems, and task management apps
 - ⚙️ Full-stack experience: MERN, Flask, Firebase, Azure, and GCP
-- 📄 [Here’s my resume](https://www.linkedin.com/in/syedkazmi14/)
+- 📄 [LinkedIn](https://www.linkedin.com/in/syedkazmi14/)
 - 🌱 Actively learning LLM, computer vision, and cloud architecture
 
 <br><br>
@@ -100,7 +100,7 @@
     <br>
 
     <li>
-      <a href="mailto:smj160030@utdallas.edu" target="_blank">
+      <a href="mailto:smjkazmi14@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/gmail:-syedkazmi14-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
       </a>
     </li>
