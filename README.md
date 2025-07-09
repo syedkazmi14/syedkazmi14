@@ -112,10 +112,9 @@
 <br><br>
 
 <div align='center'>
-  <h2><b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ ✨</b></h2>
+  <h2><b> Let's Build! </b></h2>
 </div>
 
 ---
 
-Credit: [Syed Kazmi](https://github.com/syedkazmi14)  
 Last Edited on: 07/09/2025
