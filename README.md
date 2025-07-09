@@ -8,9 +8,9 @@
 
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About Me**
+## <picture><img src="https://github.com/syedkazmi14/syedkazmi14/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About Me**
 
-<picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
+<picture><img align="right" src="https://github.com/syedkazmi14/syedkazmi14/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
 
 - 👨‍💻 Software Engineer Intern @ Infosys iCETS – AI/ML, WebRTC, HeyGen Integration
 - 🎓 Studying Computer Science @ University of Texas at Dallas
@@ -86,7 +86,7 @@
 
 -----
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+## <b> Let's Connect..!</b><img src="https://github.com/syedkazmi14/syedkazmi14/raw/main/assets/mdImages/handshake.gif" width="80">
 <br>
 
 <div align='left'>
