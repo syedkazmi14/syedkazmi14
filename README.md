@@ -10,7 +10,7 @@
 
 ## **About Me**
 
-- 👨‍💻 Software Engineer Intern @ Infosys iCETS – AI/ML, WebRTC, HeyGen Integration
+- 👨‍💻 Software Engineer Intern @ Infosys – Agentic AI, RAG, LangChain
 - 🎓 Studying Computer Science @ University of Texas at Dallas
 - 🧠 Built AI-driven advisor platforms, autonomous drone vision systems, and task management apps
 - ⚙️ Full-stack experience: MERN, Flask, Firebase, Azure, and GCP
