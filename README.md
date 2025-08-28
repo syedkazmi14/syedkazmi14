@@ -6,7 +6,6 @@
   </a>
 </p>
 
-
 <br>
 
 ## **About Me**
@@ -106,13 +105,14 @@
         <img src="https://img.shields.io/badge/Email-Click%20to%20Mail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
       </a>
     </li>
+    <li>
+      <a href="https://syedk.dev" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-syedk.dev-%2300C4CC.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
+    </li>
   </ul>
 </div>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-
----
-
-Last Edited on: 08/28/2025
