@@ -13,7 +13,6 @@
 - 🎓 Studying Computer Science @ University of Texas at Dallas  
 - 🧠 Built AI-driven advisor platforms, autonomous drone vision systems, and task management apps  
 - ⚙️ Full-stack experience: MERN, Flask, Firebase, Azure, and GCP  
-- 📄 [LinkedIn](https://www.linkedin.com/in/syedkazmi14/)  
 - 🌱 Actively learning LLM, computer vision, and cloud architecture  
 
 <br><br>
@@ -49,7 +48,7 @@
   ![YOLO](https://img.shields.io/badge/YOLO-Computer%20Vision-critical?style=for-the-badge)  
 
 -----
-
+<!--
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>  
 
 [![Syed's GitHub stats](https://github-readme-stats-syed-kazmis-projects-7ceb15f0.vercel.app/api?username=syedkazmi14&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/syedkazmi14/github-readme-stats)  
@@ -57,7 +56,7 @@
 [![Top Langs](https://github-readme-stats-syed-kazmis-projects-7ceb15f0.vercel.app/api/top-langs/?username=syedkazmi14&layout=compact&langs_count=6&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/syedkazmi14/github-readme-stats)  
 
 -----
-
+-->
 ## <b> Let's Connect!</b> <img src="https://github.com/syedkazmi14/syedkazmi14/raw/main/assets/mdImages/handshake.gif" width="80">  
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-syedkazmi14-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedkazmi14)  
