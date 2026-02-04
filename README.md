@@ -9,6 +9,7 @@
 <br>
 
 ## **About Me** 
+- 👨‍💻 Incoming Software Developer Intern @ IBM – WatsonX, Agentic AI
 - 👨‍💻 Prev Software Engineer Intern @ Infosys – Agentic AI, RAG, LangChain  
 - 🎓 Studying Computer Science @ University of Texas at Dallas  
 - 🧠 Built AI-driven advisor platforms, autonomous drone vision systems, and task management apps  
