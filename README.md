@@ -9,12 +9,11 @@
 <br>
 
 ## **About Me** 
-- 🐝 Software Developer Intern @ IBM – watsonx, Agentic AI
+- 🐝 Prev Software Developer Intern @ IBM – watsonx, Agentic AI
 - 👨‍💻 Prev Software Engineer Intern @ Infosys – Agentic AI, RAG, LangChain  
 - 🎓 Studying Computer Science @ University of Texas at Dallas  
-- 🧠 Built production-grade AI advisors, computer vision systems, and full-stack platforms
-- ⚙️ Strong in backend APIs, cloud deployment, and modern frontend frameworks
-- 
+- ⚙️ Strong in full-stack cloud and AI
+
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
